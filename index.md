@@ -3,6 +3,7 @@ layout: home
 title: Home
 ---
 
-Welcome to my blog.
+Welcome to my page.
 
-I’m documenting my journey toward medical school. I want to see how my thoughts and feelings change over time and how I change.
+I add a new post every week. I encourage new readers to check out my "About" section.
+Please feel free to read through my posts!
